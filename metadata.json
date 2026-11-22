@@ -1,0 +1,6 @@
+{
+  "name": "Solstice Valley — Open World 3D",
+  "description": "A seamless, photorealistic 3D open-world coastal valley with dynamic weather, day-night cycle, explorable interiors, vehicles, and living wildlife.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
